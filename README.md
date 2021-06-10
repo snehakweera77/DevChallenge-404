@@ -36,7 +36,7 @@
 ## Overview
 
 ![screenshot](https://github.com/snehakweera77/DevChallenge-404/blob/main/screenshots/desktop.png)
-![screenshot](https://github.com/snehakweera77/DevChallenge-404/blob/main/screenshots/mobile.png)
+<img src="https://github.com/snehakweera77/DevChallenge-404/blob/main/screenshots/mobile.png" width=375px height=667px/>
 
 
 ## Features
